@@ -12,6 +12,17 @@
   text-align: center;
 }
 
-/* .card-body {
-  height: 12.9rem;
-} */
+.social-links i {
+  font-size: 40px;
+  margin: 0 20px;
+}
+
+.h2 {
+  text-align: center;
+}
+
+.custom-col {
+  padding: 20px;
+
+  margin-bottom: 15px;
+}
